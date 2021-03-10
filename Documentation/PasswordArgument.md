@@ -8,7 +8,7 @@ public class PasswordArgument: AnyArgument
 
 ## Inheritance
 
-[`AnyArgument`](/AnyArgument)
+[`AnyArgument`](./AnyArgument)
 
 ## Initializers
 

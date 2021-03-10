@@ -1,29 +1,29 @@
 # Types
 
-  - [InvalidArgument](/InvalidArgument):
+  - [InvalidArgument](./InvalidArgument):
     An invalid argument error
-  - [AnyArgument](/AnyArgument):
+  - [AnyArgument](./AnyArgument):
     An argument
-  - [PathArgument](/PathArgument):
+  - [PathArgument](./PathArgument):
     A path argument
-  - [UrlArgument](/UrlArgument):
+  - [UrlArgument](./UrlArgument):
     An URL argument
-  - [EmailArgument](/EmailArgument):
+  - [EmailArgument](./EmailArgument):
     An email address argument
-  - [ChoiceArgument](/ChoiceArgument):
+  - [ChoiceArgument](./ChoiceArgument):
     A multiple choice argument
-  - [PasswordArgument](/PasswordArgument):
+  - [PasswordArgument](./PasswordArgument):
     A password argument
-  - [Entry](/Entry):
+  - [Entry](./Entry):
     A virtual file provider entry
 
 # Protocols
 
-  - [GenericInit](/GenericInit):
+  - [GenericInit](./GenericInit):
     A generic initialization API for a virtual file provider
-  - [VirtualFile](/VirtualFile):
+  - [VirtualFile](./VirtualFile):
     A file reference
-  - [VirtualDirectory](/VirtualDirectory):
+  - [VirtualDirectory](./VirtualDirectory):
     A directory reference
-  - [VirtualFileProvider](/VirtualFileProvider):
+  - [VirtualFileProvider](./VirtualFileProvider):
     A virtual file provider

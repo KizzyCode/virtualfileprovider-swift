@@ -10,5 +10,5 @@ various plugins as data sources (e.g. local filesystem, HTTPS or even stuff like
 
 ## Documentation
 To build the documentation, use
-`swift doc generate --module-name VirtualFileProvider --output ./Documentation ./Sources` – or take a look at the
-[prebuilt documentation](Documentation/Home.md).
+`swift doc generate --module-name VirtualFileProvider --output ./Documentation --base-url ./ ./Sources` – or take a
+look at the [prebuilt documentation](Documentation/Home.md).

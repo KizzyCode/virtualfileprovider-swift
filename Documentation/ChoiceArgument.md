@@ -8,7 +8,7 @@ public class ChoiceArgument: AnyArgument
 
 ## Inheritance
 
-[`AnyArgument`](/AnyArgument)
+[`AnyArgument`](./AnyArgument)
 
 ## Initializers
 

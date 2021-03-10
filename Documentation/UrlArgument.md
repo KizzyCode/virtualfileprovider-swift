@@ -8,7 +8,7 @@ public class UrlArgument: AnyArgument
 
 ## Inheritance
 
-[`AnyArgument`](/AnyArgument)
+[`AnyArgument`](./AnyArgument)
 
 ## Initializers
 

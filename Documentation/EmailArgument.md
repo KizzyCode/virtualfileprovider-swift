@@ -8,7 +8,7 @@ public class EmailArgument: AnyArgument
 
 ## Inheritance
 
-[`AnyArgument`](/AnyArgument)
+[`AnyArgument`](./AnyArgument)
 
 ## Initializers
 

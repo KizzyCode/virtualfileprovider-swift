@@ -8,7 +8,7 @@ public class PathArgument: AnyArgument
 
 ## Inheritance
 
-[`AnyArgument`](/AnyArgument)
+[`AnyArgument`](./AnyArgument)
 
 ## Initializers
 
